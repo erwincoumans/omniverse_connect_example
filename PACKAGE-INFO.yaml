@@ -1,0 +1,15 @@
+Package : connect-samples-launcher
+Version : 279-linux-x86_64
+Maintainers : N/A
+Description : N/A
+Repository : ssh://git@gitlab-master.nvidia.com:12051/omniverse/connect-sample-launcher-package.git
+Branch : main
+Commit : d29ad16cfa7840828a573d42d41e68780fa9d95a
+Time : Fri Apr 29 15:17:27 2022
+Builder Name : ip-10-14-78-31
+Packman Version : 6.38.1
+Packagemaker Version : 5.2.9
+Platform : linux-x86_64
+CI Build Number : 279
+CI System : Teamcity
+CI Version : 2021.2.1 (build 99602)
